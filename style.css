@@ -1,0 +1,26 @@
+
+
+.carousel-caption{
+    top: 520px;
+    color: darkorange !important;
+}
+
+#staff a{
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: red;
+    background-color: black;
+    border-radius: 50%;
+    line-height: 2.5rem;
+}
+
+#contactus{
+    background-image: url("https://picsum.photos/id/690/600/400");
+    background-size: cover;
+    object-fit: cover;
+}
+
+.just{
+    text-align: justify;
+}
