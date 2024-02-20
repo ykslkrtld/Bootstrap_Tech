@@ -15,6 +15,25 @@
     line-height: 2.5rem;
 }
 
+#staff img, 
+#staff a,
+#portfolio img,
+#services i{
+    transition: all 1s;
+}
+
+#staff img:hover, 
+#staff a:hover,
+#portfolio img:hover,
+#services i:hover{
+    transform: scale(1.2);
+}
+
+#portfolio .card{
+    overflow: hidden;
+}
+
+
 #contactus{
     background-image: url("https://picsum.photos/id/690/600/400");
     background-size: cover;
